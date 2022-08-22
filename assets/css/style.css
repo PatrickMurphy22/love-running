@@ -175,3 +175,27 @@ hr{
     height:100%;
     border-radius: 50%;
 }
+
+#times{
+    background: url('../images/dublin-city.webp') no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    overflow:hidden;
+}
+#times div{
+    color:#fafafa;
+    background-color: rgba(0, 0, 0, .6) ;
+    width:20%;
+    height:300px;
+    float: left;
+    padding-top:30px;
+    padding-left:10px;
+    text-align: center ;
+    border: #fafafa 2px solid;
+    box-sizing: border-box;
+}
+
+#times h2{
+    color: #fafafa;
+}
